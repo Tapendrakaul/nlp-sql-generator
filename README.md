@@ -10,7 +10,7 @@ This is a Streamlit-based application that generates and executes SQL queries ba
 
 ## Requirements
 
-- Python 3.10
+- Python 3.11
 - Streamlit
 - SQLAlchemy
 - LangChain
@@ -23,8 +23,8 @@ This is a Streamlit-based application that generates and executes SQL queries ba
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/question-answering-app.git
-    cd question-answering-app
+    git clone https://github.com/Tapendrakaul/nlp-sql-generator.git
+    cd nlp-sql-generator
     ```
 
 2. Create and activate a virtual environment:
